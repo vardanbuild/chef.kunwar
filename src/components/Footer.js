@@ -9,6 +9,6 @@ export default () => (
       <a href="https://www.instagram.com/chef.kunwar/">chef.kunwar</a>
       <br /> 📞 @ +91-9779948445
     </h2>
-    <br />/
+    <br />
   </div>
 )
