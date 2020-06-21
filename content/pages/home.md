@@ -1,30 +1,62 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: chef.kunwar
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
-meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+subtitle: 'Now order delicious food online in Patiala!'
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+# Please note :
 
-# Features
+- Minimum order in Patiala - ₹300
+- Minimum order 2kms in/near Azad Nagar - ₹200
+- Cash on delivery, Paytm and Google Pay are accepted.
+- The order needs to be placed 2 hours before-hand.
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+# Delivery timings
 
-## Get started
+12 pm to 6 pm
+During curfew, no delivery shall be made after 7 pm.
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+# Menu
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+- Veg noodles - ₹130
+- Spl. noodles - ₹170
+
+# Pasta
+
+- White sauce pasta - ₹150
+- Mango pasta - ₹180 (seasonal)
+- Green sauce mint pasta - ₹180
+- Chocolate pasta - ₹160
+- Tandoori sauce pasta - ₹170
+
+# Pizza 8"
+
+- Onion & capsicum pizza - ₹ 130
+- Capsicum & paneer pizza - ₹150
+- Cheese chilli pizza - ₹180
+- Sweet corn pizza - ₹130
+- Paneer & onion pizza - ₹150
+
+# Main Course
+
+- Paneer butter masala - ₹160
+- Paneer tikka butter masala - ₹180
+- Paneer king bhurji - ₹170
+- Paneer tikka - ₹180
+- Tawa paneer - ₹160
+- Palak paneer - ₹160 (seasonal)
+- Palak kofta - ₹170 (seasonal)
+- Shahi paneer - ₹150
+- Kadai paneer - ₹150
+- Cheese chilli - ₹170 dry/gravy
+- Mushroom tikka - ₹150 (seasonal)
+- Manchurian - ₹180 dry/gravy
+- Dal makhani - ₹120
+- Spl. dal makhani - ₹150
+- Mix veg- ₹150 (seasonal)
+
+# Specials
+
+- Special Cream Salad- ₹50
