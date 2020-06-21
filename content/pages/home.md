@@ -20,43 +20,57 @@ During curfew, no delivery shall be made after 7 pm.
 
 # Menu
 
-- Veg noodles - ₹130
-- Spl. noodles - ₹170
+<ul>
+    <li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Veg noodles - ₹130</li>
+    <li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Spl. noodles - ₹170</li>
+</ul>
 
 # Pasta
 
-- White sauce pasta - ₹150
-- Mango pasta - ₹180 (seasonal)
-- Green sauce mint pasta - ₹180
-- Chocolate pasta - ₹160
-- Tandoori sauce pasta - ₹170
+<ul>
+
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">White sauce pasta - ₹150</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Mango pasta - ₹180 (seasonal)</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Green sauce mint pasta - ₹180</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Chocolate pasta - ₹160</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Tandoori sauce pasta - ₹170</li>
+</ul>
 
 # Pizza 8"
 
-- Onion & capsicum pizza - ₹ 130
-- Capsicum & paneer pizza - ₹150
-- Cheese chilli pizza - ₹180
-- Sweet corn pizza - ₹130
-- Paneer & onion pizza - ₹150
+<ul>
+
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Onion & capsicum pizza - ₹ 130</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Capsicum & paneer pizza - ₹150</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Cheese chilli pizza - ₹180</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Sweet corn pizza - ₹130</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Paneer & onion pizza - ₹150</li>
+</ul>
 
 # Main Course
 
-- Paneer butter masala - ₹160
-- Paneer tikka butter masala - ₹180
-- Paneer king bhurji - ₹170
-- Paneer tikka - ₹180
-- Tawa paneer - ₹160
-- Palak paneer - ₹160 (seasonal)
-- Palak kofta - ₹170 (seasonal)
-- Shahi paneer - ₹150
-- Kadai paneer - ₹150
-- Cheese chilli - ₹170 dry/gravy
-- Mushroom tikka - ₹150 (seasonal)
-- Manchurian - ₹180 dry/gravy
-- Dal makhani - ₹120
-- Spl. dal makhani - ₹150
-- Mix veg- ₹150 (seasonal)
+<ul>
+
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Paneer butter masala - ₹160</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Paneer tikka butter masala - ₹180</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Paneer king bhurji - ₹170</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Paneer tikka - ₹180</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Tawa paneer - ₹160</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Palak paneer - ₹160 (seasonal)</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Palak kofta - ₹170 (seasonal)</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Shahi paneer - ₹150</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Kadai paneer - ₹150</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Cheese chilli - ₹170 dry/gravy</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Mushroom tikka - ₹150 (seasonal)</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Manchurian - ₹180 dry/gravy</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Dal makhani - ₹120</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Spl. dal makhani - ₹150</li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Mix veg- ₹150 (seasonal)</li>
+</ul>
 
 # Specials
 
-- Special Cream Salad- ₹50
+<ul>
+
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Special Cream Salad- ₹50</li>
+</ul>
