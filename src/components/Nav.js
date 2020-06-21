@@ -49,8 +49,7 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/">Order now</NavLink>
-            <NavLink to="/">📞 +91-9779948445 to place an order!</NavLink>
+            <NavLink to="/">Order now 📞 +91-9779948445</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
