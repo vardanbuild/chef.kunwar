@@ -27,15 +27,24 @@
 }
 
 @media (max-width: 600px) {
+  .PageHeader--Title {
+    font-size: 3rem;
+    margin-bottom: 0;
+  }
   .PageHeader {
     padding: 7rem 0;
   }
-  .PageHeader-large {
-    padding: 12.5rem 0;
+  .description {
+    margin-top: 30rem !important;
+  }
+  .PageHeader--Subtitle {
+    font-weight: 400;
+    font-size: 1.2rem;
   }
 }
 
 .description {
-  margin-right: 20% !important;
-  margin-top: 20% !important;
+  max-width: 1111px;
+  width: 90%;
+  margin: 0 5%;
 }

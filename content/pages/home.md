@@ -3,12 +3,13 @@ template: HomePage
 slug: ''
 title: chef.kunwar
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: <div style="font-weight:bold;">
+subtitle: <div style="font-weight:bold; color:#696969">
   <h2 className="taCenter">
-  Order delicious food online in Patiala!<br />
-  Check out my Instagram page @
+  Now delivering in Patiala!<br />
+  Check out dishes on IG @
   <a href="https://www.instagram.com/chef.kunwar/">chef.kunwar</a>
-  <br /> 📞 @ +91-9779948445
+  <br /> <span style="color:#62629d">📞 @ +91-9779948445<span>
+  to order now!
   </h2>
   </div>
 ---
