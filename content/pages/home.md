@@ -53,6 +53,7 @@ During curfew, no delivery shall be made after 7 pm.
 <li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Cheese chilli pizza - <span style="font-weight:bold;">₹180</span></li>
 <li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Sweet corn pizza - <span style="font-weight:bold;">₹130</span></li>
 <li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Paneer & onion pizza - <span style="font-weight:bold;">₹150</span></li>
+<li style="border: 1px solid #A9A9A9; width: fit-content; border-radius: 5px; padding: 5px; margin: 5px 0">Cheese corn pizza - <span style="font-weight:bold;">₹150</span></li>
 </ul>
 
 # Main Course
